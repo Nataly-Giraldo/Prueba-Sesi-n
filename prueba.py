@@ -1,3 +1,0 @@
-#ejercicio
-
-print("hola")
